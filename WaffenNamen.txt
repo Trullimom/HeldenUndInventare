@@ -1,0 +1,25 @@
+Thunderbolt
+Lone Wolf
+Shell Shock
+Glorybringer
+Rapidfire
+Wildcat
+Gunslinger
+Bullet Blitz
+Barrel Burner
+Vindicator
+Vindicator
+Firestarter
+Doomhammer
+Trigger Tempest
+Dragonfire
+Dark Blade
+Bulletblitz
+Blast Burner
+Scorpion Sting
+Silent Assassin
+
+//Random rnd = new Random();
+            // string[] waffen = ["Thunderbolt", "Lone Wolf", "Shell Shock", "Glorybringer", "Rapidfire", "Wildcat", "Gunslinger",
+            //                 "Bullet Blitz", "Barrel Burner", "Vindicator", "Firestarter", "Doomhammer", "Trigger Tempest",
+            //                 "Dragonfire", "Dark Blade", "Bulletblitz", "Blast Burner", "Scorpion Sting", "Silent Assassin"];
