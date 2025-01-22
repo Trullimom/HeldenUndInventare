@@ -9,7 +9,7 @@ namespace HelndeUndInventare
         {
             Held held1 = new Held("Gale Glare", 10);
             Held held2 = new Held("Magician Fire", 13);
-
+            // jojo
             held1.AddItem(CreateItems.waffe1);
             held1.AddItem(CreateItems.waffe2);
             held1.AddItem(CreateItems.waffe3);
